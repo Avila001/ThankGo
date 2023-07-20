@@ -1,6 +1,5 @@
 package main
 
-/*
 import (
 	"fmt"
 	"strings"
@@ -112,4 +111,3 @@ func main() {
 	stats := countDigitsInWords(next)
 	printStats(stats)
 }
-*/

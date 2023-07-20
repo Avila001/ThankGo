@@ -1,6 +1,5 @@
 package main
 
-/*
 import (
 	"fmt"
 	"strings"
@@ -66,4 +65,3 @@ func main() {
 	res := encode(src)
 	fmt.Println(res)
 }
-*/

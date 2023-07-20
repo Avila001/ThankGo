@@ -1,6 +1,5 @@
 package main
 
-/*
 import (
 	"fmt"
 	"strconv"
@@ -79,4 +78,3 @@ func Test(t *testing.T) {
 	//	t.Errorf("%v: got %v, want %v", directions, got, want)
 	//}
 }
-*/

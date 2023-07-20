@@ -1,6 +1,5 @@
 package main
 
-/*
 import (
 	"encoding/json"
 	"fmt"
@@ -53,5 +52,3 @@ func main() {
 	fmt.Println(m)
 	// {Interstellar 2014 [Adventure Drama Science Fiction]}
 }
-
-*/
